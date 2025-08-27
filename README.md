@@ -4,7 +4,9 @@
 
 ## INFORMATION
 
+This is a path chooser for when your game has mutliple acts or chapter all with choices and you want each act/chapter to be selected from the title screen.
 
+If you have any issues or suggestions for what should be added to these scripts and assets or the information area, list them in the issues tab
 
 ## Copyright policy
 
@@ -12,3 +14,4 @@ All of my scripts and assets are operated under the same copyright policy: you m
 
 ## HOW TO USE
 
+All instructions on how to use are listed in the comments in the script
